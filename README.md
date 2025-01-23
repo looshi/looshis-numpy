@@ -1,0 +1,2 @@
+# looshis-numpy
+Learning numpy
